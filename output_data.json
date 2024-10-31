@@ -1,0 +1,173 @@
+{
+    "global_metrics": {
+        "LSM": 0.91,
+        "M_rLSM": 0.69
+    },
+    "user_data": {
+        "label": 1,
+        "conversations": [
+            {
+                "speaker": "T1",
+                "statement": "马先生",
+                "function_words_percentage": 0.0,
+                "rLSM": 0.0
+            },
+            {
+                "speaker": "C1",
+                "statement": "好的，马先生，请问你是方便文字咨询呢，还是语音咨询",
+                "function_words_percentage": 27.27,
+                "rLSM": 0.0
+            },
+            {
+                "speaker": "T1",
+                "statement": "文字",
+                "function_words_percentage": 0.0,
+                "rLSM": 0.0
+            },
+            {
+                "speaker": "C1",
+                "statement": "能说说现在你们是怎么样一个状况吗？",
+                "function_words_percentage": 25.0,
+                "rLSM": 0.86
+            },
+            {
+                "speaker": "T1",
+                "statement": "刚分手",
+                "function_words_percentage": 33.33,
+                "rLSM": 0.67
+            },
+            {
+                "speaker": "C1",
+                "statement": "谁提出来的呢？",
+                "function_words_percentage": 66.67,
+                "rLSM": 0.67
+            },
+            {
+                "speaker": "T1",
+                "statement": "今年打算结婚的，现在分了  她",
+                "function_words_percentage": 33.33,
+                "rLSM": 0.86
+            },
+            {
+                "speaker": "C1",
+                "statement": "明白的，她当时是给你说的怎么样的观点呢？  方便截图吗？想看看她对你说的潜台词",
+                "function_words_percentage": 44.12,
+                "rLSM": 0.91
+            },
+            {
+                "speaker": "T1",
+                "statement": "她说心累了，不管做什么都是按照我的意思来，不会考虑她，一吵架就冷战，谈了两年，吵过好几次，就有两三次冷战，",
+                "function_words_percentage": 36.96,
+                "rLSM": 0.95
+            },
+            {
+                "speaker": "C1",
+                "statement": "明白的，她的潜台词 意思就是你不注意她的感受，尊重她的想法，从而得出你不爱她的结论，女生就是这个思维  冷战确实是最伤感情的，拒绝沟通，就是拒绝关系  她还有其他对你的抱怨吗？",
+                "function_words_percentage": 40.79,
+                "rLSM": 0.87
+            },
+            {
+                "speaker": "T1",
+                "statement": "对，她说受不了我这种脾气，后面我也改了好多，",
+                "function_words_percentage": 31.58,
+                "rLSM": 0.88
+            },
+            {
+                "speaker": "C1",
+                "statement": "明白的 其实她说话就可以分析出她的心理活动。 分开一段时间，冷静一下 这更多的是两个层面。 对于未来的担忧  一方面她确实是很爱你的，不愿意这段感情破裂的。 一方面她有很大的担忧，未来结婚以后，你能不能成为她的依靠，能不能给到她幸福，她打了个问号❓ 就很担忧，痛苦  女生通常都会以分手来表达不满和考验。 这是女生思维，男生完全不理解的  她会看分手后你的表现 如果你很爱她，会想着改变，对她更好，测试了你对她的感情，坚定了爱，她觉得放心了，有安全感了，从而觉得值得，更坚定的爱你。 这是女生思维。  男生思维是 认定你了，就是你了，如果你分手，就是对感情不坚定，不爱我。  这么说，你理解吗？",
+                "function_words_percentage": 40.08,
+                "rLSM": 1.0
+            },
+            {
+                "speaker": "T1",
+                "statement": "去年就已经把礼过了，双方父母也见过面，都没什么意见，现在她回去了，就把礼退给我家了  嗯嗯，理解  但是我感觉礼已经退了，我也不知道还有没有可能在一起，就感觉希望很小",
+                "function_words_percentage": 40.28,
+                "rLSM": 0.96
+            },
+            {
+                "speaker": "C1",
+                "statement": "那你是怎么应对的呢  礼退回去，也没什么，只要做好双方父母的关系缓和就好了  她说冷静一下以后，距离现在多久了，你有做过哪些挽回措施呢",
+                "function_words_percentage": 37.29,
+                "rLSM": 0.88
+            },
+            {
+                "speaker": "T1",
+                "statement": "她没跟我说就去我家退了，回去当天她发消息给我说她要回去，我当时上着班，我也不知道还怎么办，就在微信上我一直跟她说，她还是不听，当然我对她在钱方面我都很舍得，因为想着跟她走到结婚  我一直在挽回，打电话她不接，我只能发消息，分了一个星期",
+                "function_words_percentage": 47.62,
+                "rLSM": 0.91
+            },
+            {
+                "speaker": "C1",
+                "statement": "明白的，退礼的时候你们见面了吗？ 这个退礼的事情你父母怎么看待的呢",
+                "function_words_percentage": 40.0,
+                "rLSM": 0.89
+            },
+            {
+                "speaker": "T1",
+                "statement": "没有，我在外省，我当时她没提前跟我说我也回不去，退礼是她姐来退，她妈他们没来",
+                "function_words_percentage": 50.0,
+                "rLSM": 0.96
+            },
+            {
+                "speaker": "C1",
+                "statement": "现在看来的话 其实她应该是纠结了很久，才下的这个决定",
+                "function_words_percentage": 45.83,
+                "rLSM": 0.63
+            },
+            {
+                "speaker": "T1",
+                "statement": "嗯嗯",
+                "function_words_percentage": 100.0,
+                "rLSM": 0.51
+            },
+            {
+                "speaker": "C1",
+                "statement": "也就是说，你们之间的矛盾其实是很深的，就磨合，平常相处之间，吵架冷战，积累了太多的积怨，没有得到更好的处理  量变到质变的过程  这次也是她也是深思以后，做出的决定",
+                "function_words_percentage": 33.8,
+                "rLSM": 0.62
+            },
+            {
+                "speaker": "T1",
+                "statement": "应该是吧",
+                "function_words_percentage": 75.0,
+                "rLSM": 0.63
+            },
+            {
+                "speaker": "C1",
+                "statement": "对于你们的情况，目前是了解到分手阶段。 怎么认识，相处过程中的矛盾，这些文字聊说不清楚。 你看什么时候方便语音，我们好好聊一聊，再分析她的心理，解决方案  nan  这也是亲密关系中，女性应该得到的需求。 你也会想下，你怎么给与的这些需求，她的反馈是怎么样的，你给自己打多少分  你看这样行吗？",
+                "function_words_percentage": 34.71,
+                "rLSM": 0.68
+            },
+            {
+                "speaker": "T1",
+                "statement": "等有时间，我这哈还在上着班",
+                "function_words_percentage": 66.67,
+                "rLSM": 0.67
+            },
+            {
+                "speaker": "C1",
+                "statement": "好的，晚上吧 晚上你看什么时候方便，我们先预约  我也好安排时间",
+                "function_words_percentage": 33.33,
+                "rLSM": 0.8
+            },
+            {
+                "speaker": "T1",
+                "statement": "嗯嗯  谢谢",
+                "function_words_percentage": 50.0,
+                "rLSM": 0.71
+            },
+            {
+                "speaker": "C1",
+                "statement": "没事的，文字确实说不清楚，我们一起梳理过程，找出她分手的原因，恋爱不和谐的地方，针对性的去解决这些问题，挽回其实难度不大 因为你们已经谈婚论嫁，互相爱着对方。说白了，也就是经营感情的方式方法不对",
+                "function_words_percentage": 27.59,
+                "rLSM": 0.43
+            },
+            {
+                "speaker": "T1",
+                "statement": "嗯嗯 好",
+                "function_words_percentage": 100.0,
+                "rLSM": null
+            }
+        ]
+    }
+}
